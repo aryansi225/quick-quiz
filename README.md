@@ -12,4 +12,7 @@ A wordpress plugin which allows bloggers to add a short MCQ related to the post,
 
 # Screenshot
 
+![Plugin Demo](https://user-images.githubusercontent.com/16362957/136673004-4e659162-f035-4243-b010-48309fe43cbc.gif)
+
+
 
